@@ -1,0 +1,1 @@
+{"Linear Regression": {"Note": "No hyperparameters tuned"}, "Decision Tree": {"max_depth": 10, "min_samples_leaf": 5}, "Random Forest": {"max_depth": 8, "n_estimators": 200}, "XGBoost": {"learning_rate": 0.1, "max_depth": 6, "n_estimators": 200}, "MLP Neural Network": {"architecture": "128-128-64-1", "optimizer": "adam", "epochs": 30, "batch_size": 512}}
